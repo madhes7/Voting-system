@@ -1,0 +1,25 @@
+body{
+    background-image: "s.jpg";
+    color: black;
+    background-repeat: none;
+    background-size: cover;
+    opacity: -0.9px;
+     background-attachment: fixed;
+background-size: cover;
+}
+.container{
+        font-size: 50px;
+        padding-left: 20%;
+        
+    }
+
+        
+
+.con-1{
+font-size: 40px;
+
+}
+.but{
+text-align: center;
+padding-left: 100px;
+}

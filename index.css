@@ -1,0 +1,14 @@
+body{
+		 background-image:url("abc.jpg");
+		 background-repeat: no-repeat;
+		 background-size: 100%;
+		   opacity: 1;
+		   padding-left: 250px;
+		   padding-right: 200px;
+}	
+p{
+			text-align: center;
+			font-family: sans-serif;
+			text-decoration-color: red;
+			font-size: 100px;		
+		}
